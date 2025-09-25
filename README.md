@@ -42,5 +42,5 @@ Here are some of my favorite creations:
 
 ## 📈 GitHub Stats
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=NR-SkaterBoy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NR-SkaterBoy&layout=compact&theme=radical)
+![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardneuvald&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardneuvald&layout=compact&theme=radical)
